@@ -1,0 +1,23 @@
+
+
+.navigation{
+position: sticky;
+top: 0;
+left: 0;
+}
+
+/* carousel start here */
+.carousel-item{
+    height: 70vh;
+}
+.carousel-item img{
+
+}
+/* carousel end here */
+#cards{
+    padding: 2% 10%;
+}
+
+@media screen and (max-width:600px) {
+
+}
